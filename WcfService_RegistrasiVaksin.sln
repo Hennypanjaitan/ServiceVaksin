@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfService_RegistrasiVaksin", "WcfService_RegistrasiVaksin.csproj", "{81E07BCD-7243-4890-849C-24978E10F710}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistrasiVaksin", "..\WcfService_Vaksin\RegistrasiVaksin\RegistrasiVaksin.csproj", "{B3EE8552-5C11-49FF-BA80-394CAAED51A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81E07BCD-7243-4890-849C-24978E10F710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E07BCD-7243-4890-849C-24978E10F710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81E07BCD-7243-4890-849C-24978E10F710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E07BCD-7243-4890-849C-24978E10F710}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3EE8552-5C11-49FF-BA80-394CAAED51A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3EE8552-5C11-49FF-BA80-394CAAED51A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3EE8552-5C11-49FF-BA80-394CAAED51A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3EE8552-5C11-49FF-BA80-394CAAED51A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A35BABF7-C1C3-46B6-8AEF-2D0B3A381C43}
+	EndGlobalSection
+EndGlobal

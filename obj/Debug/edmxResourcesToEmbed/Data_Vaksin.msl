@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Vaksin_07Model1StoreContainer" CdmEntityContainer="Vaksin_07Entities1">
+    <EntitySetMapping Name="Data_Vaksin">
+      <EntityTypeMapping TypeName="Vaksin_07Model1.Data_Vaksin">
+        <MappingFragment StoreEntitySet="Data_Vaksin">
+          <ScalarProperty Name="no_register" ColumnName="no_register" />
+          <ScalarProperty Name="tanggal_dibuat" ColumnName="tanggal_dibuat" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
